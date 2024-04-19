@@ -1,0 +1,12 @@
+blog/index.html
+cdn-cgi/l/email-protection/index.html
+index.html
+kontak-kami/index.html
+privacy-policy/index.html
+tentang-kami/index.html
+terms-and-conditions/index.html
+wp-content/uploads/astra-sites/index.html
+wp-content/uploads/sucuri/index.html
+wp-content/uploads/wp-staging/index.html
+wp-content/uploads/wp-staging/logs/index.html
+wp-content/uploads/wpforms/cache/index.html
